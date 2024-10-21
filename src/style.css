@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .navbar .nav-links {
+    flex-direction: column;
+  }
+  .menu-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
