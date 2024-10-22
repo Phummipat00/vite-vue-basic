@@ -4,8 +4,8 @@ import Menu from '../views/Menu.vue'
 import Cart from '../views/Cart.vue'
 
 const routes = [
-  { path: '/', component: Home },
-  { path: '/menu', component: Menu },
+  // { path: '/', component: Home },
+  { path: '/', component: Menu },
   { path: '/cart', component: Cart }
 ]
 
